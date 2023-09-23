@@ -4,17 +4,27 @@
 
 ### Work
 
-#### GitHub
+#### Repository
 
-- [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere)
+- [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere) [GitHub]
   - Gherkin記法のテストを、[CodeceptJS](https://codecept.io/) で実装したサンプルです。
   - 自動化練習サイト「[HOTEL PLANISPHERE](https://hotel.testplanisphere.dev/ja/)」を利用しています。
-- [unittest-for-developer](https://github.com/GOAMI-Takaaki/unittest-for-developer)
+- [unittest-for-developer](https://github.com/GOAMI-Takaaki/unittest-for-developer) [GitHub]
   - JavaのテストコードをJUnitで記述し、Gradleで実行するサンプルです。
   - Qiita記事「[開発視点で便利なユニットテストの使い方](https://qiita.com/goamix/items/f35423265630ed68d3d2)」で詳述しています。
-- [slack-archives-opener](https://github.com/GOAMI-Takaaki/slack-archives-opener)
+- [slack-archives-opener](https://github.com/GOAMI-Takaaki/slack-archives-opener) [GitHub]
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
   - 「リンクをブラウザで開く」を自動的にクリックします。
+
+#### Article
+
+- [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goamix/items/247e0c086dc39d6f1102) [Qiita]
+- [開発視点で便利なユニットテストの使い方](https://qiita.com/goamix/items/f35423265630ed68d3d2) [Qiita]
+
+#### Presentation
+
+- 2021.12.17 - [チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
+  - Qiita Engineer Summit 2021 Winter
 
 ### Job / Role
 
@@ -37,12 +47,6 @@
   - グループウェア開発 副責任者
 - 2019年 株式会社 Works Human Intelligence 転籍
   - 勤怠管理サービス開発 グループ・マネージャー
-
-### Presentation
-
-#### 2021.12.17 Qiita Engineer Summit 2021 Winter
-
-[チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit)
 
 ### Certification
 
