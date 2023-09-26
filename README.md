@@ -33,6 +33,8 @@
 - CI/CD グループ・マネージャー
 - QE(SET) グループ・マネージャー
 
+※[メンバー募集中](https://job.axol.jp/pm/c/works-hi/job/list)です。
+
 #### History
 
 アプリケーション開発 約20年
