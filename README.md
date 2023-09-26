@@ -6,6 +6,9 @@
 
 #### Repository
 
+- [slides](https://github.com/GOAMI-Takaaki/slides) [GitHub]
+  - GitHub Pages で[スライド表示サイト](https://goami-takaaki.github.io/slides/)を構築しました。
+  - Markdown + [remark](https://github.com/gnab/remark) を利用しています。
 - [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere) [GitHub]
   - Gherkin記法のテストを、[CodeceptJS](https://codecept.io/) で実装したサンプルです。
   - 自動化練習サイト「[HOTEL PLANISPHERE](https://hotel.testplanisphere.dev/ja/)」を利用しています。
