@@ -6,16 +6,16 @@
 
 #### Repository
 
-- [slides](https://github.com/GOAMI-Takaaki/slides) [GitHub]
-  - GitHub Pages で[スライド表示サイト](https://goami-takaaki.github.io/slides/)を構築しました。
+- [slides](https://github.com/goataka/slides) [GitHub]
+  - GitHub Pages で[スライド表示サイト](https://goataka.github.io/slides/)を構築しました。
   - Markdown + [remark](https://github.com/gnab/remark) を利用しています。
-- [codeceptjs-hotel-planisphere](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere) [GitHub]
+- [codeceptjs-hotel-planisphere](https://github.com/goataka/codeceptjs-hotel-planisphere) [GitHub]
   - Gherkin記法のテストを、[CodeceptJS](https://codecept.io/) で実装したサンプルです。
   - 自動化練習サイト「[HOTEL PLANISPHERE](https://hotel.testplanisphere.dev/ja/)」を利用しています。
-- [unittest-for-developer](https://github.com/GOAMI-Takaaki/unittest-for-developer) [GitHub]
+- [unittest-for-developer](https://github.com/goataka/unittest-for-developer) [GitHub]
   - JavaのテストコードをJUnitで記述し、Gradleで実行するサンプルです。
   - Qiita記事「[開発視点で便利なユニットテストの使い方](https://qiita.com/goamix/items/f35423265630ed68d3d2)」で詳述しています。
-- [slack-archives-opener](https://github.com/GOAMI-Takaaki/slack-archives-opener) [GitHub]
+- [slack-archives-opener](https://github.com/goataka/slack-archives-opener) [GitHub]
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
   - 「リンクをブラウザで開く」を自動的にクリックします。
 
@@ -26,7 +26,7 @@
 
 #### Slide
 
-- [2023.07.27 - CodeceptJSにトライしてみた](https://goami-takaaki.github.io/slides/index.html?20230927-try-codeceptjs.md) [GitHub]
+- [2023.07.27 - CodeceptJSにトライしてみた](https://goataka.github.io/slides/index.html?20230927-try-codeceptjs.md) [GitHub]
   - [自動化大好きエンジニアLT会 - vol.10](https://rakus.connpass.com/event/293767/)
 - [2021.12.17 - チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
   - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
@@ -61,6 +61,15 @@
 
 - [Registered Scrum Master®](https://scruminc.jp/training/master/)
 - [Registered Product Owner®](https://scruminc.jp/training/owner/)
+
+#### AWS
+
+- [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)
+
+#### JSTQB
+
+- [Foundation Level](https://jstqb.jp/syllabus.html#syllabus_foundation)
+- [Test Automation Engineer](https://jstqb.jp/syllabus.html#syllabus_advanced_specialist)
 
 ### Experience
 
