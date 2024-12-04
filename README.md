@@ -14,15 +14,16 @@
   - 自動化練習サイト「[HOTEL PLANISPHERE](https://hotel.testplanisphere.dev/ja/)」を利用しています。
 - [unittest-for-developer](https://github.com/goataka/unittest-for-developer) [GitHub]
   - JavaのテストコードをJUnitで記述し、Gradleで実行するサンプルです。
-  - Qiita記事「[開発視点で便利なユニットテストの使い方](https://qiita.com/goamix/items/f35423265630ed68d3d2)」で詳述しています。
+  - Qiita記事「[開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2)」で詳述しています。
 - [slack-archives-opener](https://github.com/goataka/slack-archives-opener) [GitHub]
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
   - 「リンクをブラウザで開く」を自動的にクリックします。
 
 #### Article
 
-- [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goamix/items/247e0c086dc39d6f1102) [Qiita]
-- [開発視点で便利なユニットテストの使い方](https://qiita.com/goamix/items/f35423265630ed68d3d2) [Qiita]
+- [理解しやすいコードの書き方～理解容易性の7つの観点～](https://qiita.com/goataka/items/ae1959c29036dc4929fe) [Qiita]
+- [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goataka/items/247e0c086dc39d6f1102) [Qiita]
+- [開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2) [Qiita]
 
 #### Slide
 
