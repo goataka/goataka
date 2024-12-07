@@ -1,10 +1,10 @@
-### Interest
+## Interest
 
 娘 / 漫画 / ランニング / 一人カラオケ / 物理(素粒子) / 数学
 
-### Work
+## Work
 
-#### Repository
+### Repository
 
 - [slides](https://github.com/goataka/slides) [GitHub]
   - GitHub Pages で[スライド表示サイト](https://goataka.github.io/slides/)を構築しました。
@@ -19,7 +19,7 @@
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
   - 「リンクをブラウザで開く」を自動的にクリックします。
 
-#### Article
+### Article
 
 - [理解しやすいコードの書き方～理解容易性の7つの観点～](https://qiita.com/goataka/items/ae1959c29036dc4929fe) [Qiita]
 - [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goataka/items/247e0c086dc39d6f1102) [Qiita]
@@ -32,16 +32,21 @@
 - [2021.12.17 - チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
   - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
 
-### Job / Role
+## Job
 
-勤怠管理サービス開発
+### Current
 
-- CI/CD グループ・マネージャー
-- QE(SET) グループ・マネージャー
+エンジニアリング・マネージャー
+
+- DevOps
+  - CI/CD
+  - QE(SET)
+  - DX
+  - Document
 
 ※[メンバー募集中](https://job.axol.jp/pm/c/works-hi/job/list)です。
 
-#### History
+### History
 
 アプリケーション開発 約20年
 
@@ -56,7 +61,7 @@
 - 2019年 株式会社 Works Human Intelligence 転籍
   - 勤怠管理サービス開発 グループ・マネージャー
 
-### Certification
+## Certification
 
 #### Scrum
 
@@ -72,39 +77,72 @@
 - [Foundation Level](https://jstqb.jp/syllabus.html#syllabus_foundation)
 - [Test Automation Engineer](https://jstqb.jp/syllabus.html#syllabus_advanced_specialist)
 
-### Experience
+## Experience
 
-- Programming Languages/ Frameworks / Library etc.
-  - Web Fronted
-    - TypeScript, JavaScript, Vue.js, AngularJS, React, HTML, CSS
-  - Backend
-    - TypeScript, Node.js, Java, Spring, Gradle, Kotlin, Go, COBOL, Rust, Haskell
-  - Windows Application
-    - C#, NUnit
-- Infrastructure
-  - Amazon Web Service, Microsoft Azure
-- Middleware
-  - Amazon Route53, AWS WAF, Amazon CloudFront, Amazon API Gateway, AWS Lambda, Amazon SQS, Amazon SMS
-  - Apache Tomacat, IBM WebSphere, Nginx
-- Database
-  - Oracle Database, Amazon DynamoDB, MariaDB, Amazon S3
-- CI
-  - AWS CodeBuild, Jenkins, GitHub Actions, GitLab CI
-- Monitoring
-  - Amazon CloudWatch, AWS Chat, Amazon SNS, AppDynamics
-- Data analytics
-  - Metabase, MariaDB Columnstore
-- Environment setup
-  - AWS CDK, Ansible, Jenkins DSL, Amazon EC2, Docker
-- Container Orchestration
-  - Amazon ECS, Amazon Fargate, Amazon ECR
-- Code Management
-  - GitHub, GitLab, AWS CodeCommit, Subversion
-- Test automation tools
-  - JUnit, Jest, NUnit, CodeceptJS
-- Issue
-  - GitHub Projects, Jira software, Redmine, Trac
-- IDE
-  - Visual Studio Code, Eclipse, Intellij Idea, Delphi
-- Communication
-  - Slack, Google Workspace, Zoom/Google meet  
+###  Programming Languages/ Frameworks / Library etc.
+
+#### Web Fronted
+
+- TypeScript, JavaScript, Vue.js, AngularJS, React, HTML, CSS
+
+#### Backend
+
+- TypeScript, Java, Kotlin, Go, COBOL, Rust, Haskell, Scala
+- Spring
+
+#### Windows Application
+
+- C#, NUnit
+
+###  Infrastructure
+
+- Amazon Web Service, Microsoft Azure
+
+###  Middleware
+
+- Amazon Route53, AWS WAF, Amazon CloudFront, Amazon API Gateway, AWS Lambda, Amazon SQS, Amazon SMS
+- Apache Tomacat, IBM WebSphere, Nginx
+
+###  Database
+
+- Oracle Database, Amazon DynamoDB, MariaDB, Amazon S3
+
+###  CI
+
+- AWS CodeBuild, Jenkins, GitHub Actions, GitLab CI
+
+###  Monitoring
+
+- Amazon CloudWatch, AWS Chat, Amazon SNS, AppDynamics
+
+###  Data analytics
+
+- Metabase, MariaDB Columnstore
+
+###  Environment setup
+
+- AWS CDK, Ansible, Jenkins DSL, Amazon EC2, Docker
+
+###  Container Orchestration
+
+- Amazon ECS, Amazon Fargate, Amazon ECR
+
+###  Code Management
+
+- GitHub, GitLab, AWS CodeCommit, Subversion
+
+###  Test automation tools
+
+- JUnit, Jest, NUnit, CodeceptJS
+
+###  Issue
+
+- GitHub Projects, Jira software, Redmine, Trac
+
+###  IDE
+
+- Visual Studio Code, Eclipse, Intellij Idea, Delphi
+
+###  Communication
+
+- Slack, Google meet, Google Workspace, Zoom
