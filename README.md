@@ -85,7 +85,7 @@
 
 ## Experience
 
-###  Programming Languages/ Frameworks / Library etc.
+###  Programming Languages/ Frameworks / Libraries etc.
 
 #### Web Fronted
 
@@ -98,57 +98,65 @@
 
 #### Windows Application
 
-- C#, NUnit
+- C#, NUnit, Delphi
 
-###  Infrastructure
+### Cloud Infrastructure
 
-- Amazon Web Service, Microsoft Azure
+- Amazon Web Service
+  - Amazon Route53, AWS WAF, Amazon CloudFront, Amazon API Gateway, AWS Lambda, Amazon SQS, Amazon SMS
+- Microsoft Azure
 
-###  Middleware
+### Middleware
 
-- Amazon Route53, AWS WAF, Amazon CloudFront, Amazon API Gateway, AWS Lambda, Amazon SQS, Amazon SMS
 - Apache Tomacat, IBM WebSphere, Nginx
 
-###  Database
+### Database
 
-- Oracle Database, Amazon DynamoDB, MariaDB, Amazon S3
+- Oracle Database, Amazon DynamoDB, PostgreSQL, MariaDB
 
-###  CI
+### CI
 
-- AWS CodeBuild, Jenkins, GitHub Actions, GitLab CI
+- Jenkins, GitHub Actions, AWS CodeBuild, GitLab CI
 
-###  Monitoring
+### Monitoring
 
 - Amazon CloudWatch, AWS Chat, Amazon SNS, AppDynamics
 
-###  Data analytics
+### Data analytics
 
 - Metabase, MariaDB Columnstore
 
-###  Environment setup
+### Environment setup
 
-- AWS CDK, Ansible, Jenkins DSL, Amazon EC2, Docker
+- Jenkins DSL, AWS CDK, Ansible, Amazon EC2
+- Docker, Windows Sandobx, VirtualBox
 
-###  Container Orchestration
+### Container Orchestration
 
 - Amazon ECS, Amazon Fargate, Amazon ECR
 
-###  Code Management
+### Code Management
 
 - GitHub, GitLab, AWS CodeCommit, Subversion
 
-###  Test automation tools
+### Test automation tools
 
-- JUnit, Jest, NUnit, CodeceptJS
+- CodeceptJS, Gherkin
+- JUnit, Jest, NUnit
 
-###  Issue
+### Issue Management
 
-- GitHub Projects, Jira software, Redmine, Trac
+- GitHub Projects, Redmine, Trac, Jira software
 
-###  IDE
+### IDE
 
-- Visual Studio Code, Eclipse, Intellij Idea, Delphi
+- Visual Studio Code, Eclipse, Visual Studio, Intellij Idea, Delphi
 
-###  Communication
+### Communication
 
-- Slack, Google meet, Google Workspace, Zoom
+- Slack, Microsoft Teams, Discord, Google Chat
+- Google meet, Zoom
+
+### AI Tools
+
+- GitHub Copilot (Code completion / Chat / Agent), Cline, MCP
