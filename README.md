@@ -1,8 +1,8 @@
-## Interest
+## Interests
 
 娘 / 漫画 / ランニング / 一人カラオケ / 物理(素粒子) / 数学
 
-## Work
+## Works
 
 ### Repositories
 
