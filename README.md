@@ -4,7 +4,7 @@
 
 ## Work
 
-### Repository
+### Repositories
 
 - [slides](https://github.com/goataka/slides) [GitHub]
   - GitHub Pages で[スライド表示サイト](https://goataka.github.io/slides/)を構築しました。
@@ -21,13 +21,13 @@
 - [google-task-creator](https://github.com/goataka/google-task-creator) [GitHub]
   - Google Todo Listのタスクを作成するChromeの拡張機能です。
 
-### Article
+### Articles
 
 - [理解しやすいコードの書き方～理解容易性の7つの観点～](https://qiita.com/goataka/items/ae1959c29036dc4929fe) [Qiita]
 - [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goataka/items/247e0c086dc39d6f1102) [Qiita]
 - [開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2) [Qiita]
 
-### Slide
+### Slides
 
 - [2025.04.25 - GitHub Copilot Agent ライブデモ(スクリプト)](https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo) [SpeakerDeck]
   - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
@@ -38,7 +38,7 @@
 - [2021.12.17 - チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
   - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
 
-## Job
+## Jobs
 
 ### Current
 
@@ -67,7 +67,7 @@
 - 2019年 株式会社 Works Human Intelligence 転籍
   - 勤怠管理サービス開発 グループ・マネージャー
 
-## Certification
+## Certifications
 
 #### Scrum
 
