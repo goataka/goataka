@@ -27,6 +27,8 @@
 
 ### Slide
 
+- [2025.04.25 - GitHub Copilot Agent ライブデモ(スクリプト)](https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo) [SpeakerDeck]
+  - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
 - [2024.12.17 - なぜCodeceptJSを選んだか](https://speakerdeck.com/goataka/nazecodeceptjswoxuan-ndaka) [SpeakerDeck]
   - [JaSST nano vol.43](https://jasst-nano.connpass.com/event/337872/)
 - [2023.07.27 - CodeceptJSにトライしてみた](https://goataka.github.io/slides/index.html?20230927-try-codeceptjs.md) [GitHub]
