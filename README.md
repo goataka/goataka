@@ -18,6 +18,8 @@
 - [slack-archives-opener](https://github.com/goataka/slack-archives-opener) [GitHub]
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
   - 「リンクをブラウザで開く」を自動的にクリックします。
+- [google-task-creator](https://github.com/goataka/google-task-creator) [GitHub]
+  - Google Todo Listのタスクを作成するChromeの拡張機能です。
 
 ### Article
 
