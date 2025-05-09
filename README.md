@@ -76,7 +76,8 @@
 
 #### AWS
 
-- [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)
+- [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/) 2024/04
+- [DevOps Engineer - Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/) 2025/05
 
 #### JSTQB
 
