@@ -49,18 +49,18 @@
 
 定期的に発表しています。
 
-- [2021.12.17 - チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
-  - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
-- [2023.07.27 - CodeceptJSにトライしてみた](https://goataka.github.io/slides/index.html?20230927-try-codeceptjs.md) [GitHub]
-  - [自動化大好きエンジニアLT会 - vol.10](https://rakus.connpass.com/event/293767/)
-- [2024.12.17 - なぜCodeceptJSを選んだか](https://speakerdeck.com/goataka/nazecodeceptjswoxuan-ndaka) [SpeakerDeck]
-  - [JaSST nano vol.43](https://jasst-nano.connpass.com/event/337872/)
-- [2025.04.25 - GitHub Copilot Agent ライブデモ(スクリプト)](https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo) [SpeakerDeck]
-  - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
-- [2025.07.03 - Shellの保守性に関するTips](https://speakerdeck.com/whisaiyo/20250703-lt-cicd-04)
-  - [CI/CDについて語る会](https://workshumanintelligence.connpass.com/event/359807/)
-- 2025.12.06 - 「リリース時」テストから「デイリー実行」へ！開発マネージャが取り組んだ、レガシー自動テストのモダン化戦略
-  - [ソフトウェアテスト自動化カンファレンス2025](https://testautomationresearch.connpass.com/event/361747/)
+- [チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
+  - 2021.12.17 - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
+- [CodeceptJSにトライしてみた](https://goataka.github.io/slides/index.html?20230927-try-codeceptjs.md) [GitHubPages]
+  - 2023.07.27 - [自動化大好きエンジニアLT会 - vol.10](https://rakus.connpass.com/event/293767/)
+- [なぜCodeceptJSを選んだか](https://speakerdeck.com/goataka/nazecodeceptjswoxuan-ndaka) [SpeakerDeck]
+  - 2024.12.17 - [JaSST nano vol.43](https://jasst-nano.connpass.com/event/337872/)
+- [GitHub Copilot Agent ライブデモ(スクリプト)](https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo) [SpeakerDeck]
+  - 2025.04.25 - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
+- [Shellの保守性に関するTips](https://speakerdeck.com/whisaiyo/20250703-lt-cicd-04)
+  - 2025.07.03 - [CI/CDについて語る会](https://workshumanintelligence.connpass.com/event/359807/)
+- 「リリース時」テストから「デイリー実行」へ！開発マネージャが取り組んだ、レガシー自動テストのモダン化戦略
+  - 2025.12.06 - [ソフトウェアテスト自動化カンファレンス2025](https://testautomationresearch.connpass.com/event/361747/)
 
 ## Jobs
 
@@ -100,19 +100,19 @@
 
 #### [Scrum](https://scrumlab.scruminc.com/login)
 
-- 2022/09 [Registered Scrum Master®](https://scruminc.jp/training/master/)
-- 2023/03 [Registered Product Owner®](https://scruminc.jp/training/owner/)
-- 2025/11 [Registered Scrum@Scale Practitioner®](https://scruminc.jp/training/scale/)
+- [Registered Scrum Master®](https://scruminc.jp/training/master/) 2022/09
+- [Registered Product Owner®](https://scruminc.jp/training/owner/) 2023/03
+- [Registered Scrum@Scale Practitioner®](https://scruminc.jp/training/scale/) 2025/11
 
 #### [AWS](https://skillbuilder.aws/login)
 
-- 2024/04 [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/)
-- 2025/05 [DevOps Engineer - Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/)
+- [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/) 2024/04
+- [DevOps Engineer - Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/) 2025/05
 
 #### [JSTQB](https://qualification-jstqb.com/examinee/)
 
-- 2024/08 [Foundation Level](https://jstqb.jp/syllabus.html#syllabus_foundation)
-- 2024/10 [Test Automation Engineer](https://jstqb.jp/syllabus.html#syllabus_advanced_specialist)
+- [Foundation Level](https://jstqb.jp/syllabus.html#syllabus_foundation) 2024/08
+- [Test Automation Engineer](https://jstqb.jp/syllabus.html#syllabus_advanced_specialist) 2024/10
 
 ## Experience
 
