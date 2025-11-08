@@ -1,6 +1,6 @@
 ## Interests
 
-娘 / 漫画 / ランニング / 一人カラオケ / 物理(素粒子) / 数学
+漫画 / ランニング / 一人カラオケ / 物理(素粒子) / 数学 / 娘
 
 ## Works
 
@@ -15,11 +15,17 @@
 - [unittest-for-developer](https://github.com/goataka/unittest-for-developer) [GitHub]
   - JavaのテストコードをJUnitで記述し、Gradleで実行するサンプルです。
   - Qiita記事「[開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2)」で詳述しています。
-- [slack-archives-opener](https://github.com/goataka/slack-archives-opener) [GitHub]
+- [shared-shell](https://github.com/goataka/shared-shell) [GitHub]
+  - シェルスクリプト・ライブラリです。
+
+### Deliverables
+
+- [google-task-creator](https://chromewebstore.google.com/detail/slack-archives-opener/oghdiagcdfnclabghpahdfoonacoplel) [ChromeExtension]
+  - Google Todo List のタスクを作成する Chrome 拡張です。
+  - 開いているページやリンク先のタイトルやURLを引用したTODOを簡単に作成できます。
+- [slack-archives-opener](https://chromewebstore.google.com/detail/google-task-creator/hgnahndgpdhdnfhmphicbkbfjlcoiiim) [ChromeExtension]
   - Web 版 Slack のリダイレクトページをスキップする Chrome 拡張です。
-  - 「リンクをブラウザで開く」を自動的にクリックします。
-- [google-task-creator](https://github.com/goataka/google-task-creator) [GitHub]
-  - Google Todo Listのタスクを作成するChromeの拡張機能です。
+  - 「リンクをブラウザで開く」を自動的にクリックし、素早くリンク先を開けます。
 
 ### Articles
 
@@ -37,6 +43,10 @@
   - [JaSST nano vol.43](https://jasst-nano.connpass.com/event/337872/)
 - [2025.04.25 - GitHub Copilot Agent ライブデモ(スクリプト)](https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo) [SpeakerDeck]
   - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
+- [2025.07.03 - Shellの保守性に関するTips](https://speakerdeck.com/whisaiyo/20250703-lt-cicd-04)
+  - [CI/CDについて語る会](https://workshumanintelligence.connpass.com/event/359807/)
+- 2025.12.06 - 「リリース時」テストから「デイリー実行」へ！開発マネージャが取り組んだ、レガシー自動テストのモダン化戦略
+  - [ソフトウェアテスト自動化カンファレンス2025](https://testautomationresearch.connpass.com/event/361747/)
 
 ## Jobs
 
@@ -47,8 +57,8 @@
 - DevOps
   - CI/CD
   - QE(SET)
-  - DX
-  - Document
+  - Developer Experience
+  - Document Writing
 
 ※[メンバー募集中](https://job.axol.jp/pm/c/works-hi/job/list)です。
 
