@@ -1,10 +1,15 @@
 ## Interests
 
-漫画 / ランニング / 一人カラオケ / 物理(素粒子) / 数学 / 娘
+- Personal
+  - 漫画（アプリ・レンタル） / ランニング（LSD） / カラオケ（一人） / 物理(素粒子) / 数学（線形代数） / 娘（二人）
+- Business
+  - AI / 育成 / ドキュメント / 執筆 / 品質
 
 ## Works
 
 ### Repositories
+
+仕事で欲しくなり、他でも役に立ちそうな内容を公開しています。
 
 - [slides](https://github.com/goataka/slides) [GitHub]
   - GitHub Pages で[スライド表示サイト](https://goataka.github.io/slides/)を構築しました。
@@ -20,6 +25,8 @@
 
 ### Deliverables
 
+欲しいものを作ってます。
+
 - [google-task-creator](https://chromewebstore.google.com/detail/slack-archives-opener/oghdiagcdfnclabghpahdfoonacoplel) [ChromeExtension]
   - Google Todo List のタスクを作成する Chrome 拡張です。
   - 開いているページやリンク先のタイトルやURLを引用したTODOを簡単に作成できます。
@@ -29,11 +36,15 @@
 
 ### Articles
 
+若手向けにたまに纏めています。
+
 - [理解しやすいコードの書き方～理解容易性の7つの観点～](https://qiita.com/goataka/items/ae1959c29036dc4929fe) [Qiita]
 - [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goataka/items/247e0c086dc39d6f1102) [Qiita]
 - [開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2) [Qiita]
 
 ### Slides
+
+定期的に発表しています。
 
 - [2021.12.17 - チャットツール連携の開発を通して描く業務APの未来](https://speakerdeck.com/whisaiyo/qiita-summit) [SpeakerDeck]
   - [Qiita Engineer Summit 2021 Winter](https://qiita.com/official-campaigns/engineer-summit/2021-winter)
@@ -54,13 +65,18 @@
 
 エンジニアリング・マネージャー
 
-- DevOps
-  - CI/CD
-  - QE(SET)
-  - Developer Experience
-  - Document Writing
+- DevOps改善
+  - CI/CD: アジリティ強化、プレマージ拡充、コスト最適化 など
+  - Quality Engineering: 自動テスト（E2E, UnitTest, Peformance）、製品品質改善 など
+  - Document Writing: マニュアル・リリースノート改善、内部ドキュメント推進 など
+  - Developer Experience: 開発環境・プロセス改善、AI推進 など
 
-※[メンバー募集中](https://job.axol.jp/pm/c/works-hi/job/list)です。
+#### Recruit
+
+メンバー募集中
+
+- [開発環境構築・CI/CDエンジニア](https://job.axol.jp/pm/c/works-hi/job/detail/gGNZdRViRDfkLqkrS)
+- [SETエンジニア/自社製品の自動テスト推進・運用・改善](https://job.axol.jp/pm/c/works-hi/job/detail/XJPrXTvy3knCYlXTS)
 
 ### History
 
@@ -83,6 +99,7 @@
 
 - 2022/09 [Registered Scrum Master®](https://scruminc.jp/training/master/)
 - 2023/03 [Registered Product Owner®](https://scruminc.jp/training/owner/)
+- 2025/11 [Registered Scrum@Scale Practitioner®](https://scruminc.jp/training/scale/)
 
 #### [AWS](https://skillbuilder.aws/login)
 
