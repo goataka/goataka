@@ -41,6 +41,7 @@
 
 若手向けにたまに纏めています。
 
+- [AIエージェントを介した開発におけるコードの可読性と理解容易性](articles/ai-agent-code-readability.md) [GitHub]
 - [理解しやすいコードの書き方～理解容易性の7つの観点～](https://qiita.com/goataka/items/ae1959c29036dc4929fe) [Qiita]
 - [開発マネージャがメンバーに知って欲しい事](https://qiita.com/goataka/items/247e0c086dc39d6f1102) [Qiita]
 - [開発視点で便利なユニットテストの使い方](https://qiita.com/goataka/items/f35423265630ed68d3d2) [Qiita]
