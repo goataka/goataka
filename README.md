@@ -59,7 +59,7 @@
   - 2025.04.25 - [【GitHub Copilot LT会】コード生成も、それ以外にも！生成AI活用事例共有会](https://connpass.com/event/349610/)
 - [Shellの保守性に関するTips](https://speakerdeck.com/whisaiyo/20250703-lt-cicd-04)
   - 2025.07.03 - [CI/CDについて語る会](https://workshumanintelligence.connpass.com/event/359807/)
-- [「リリース時」テストから「デイリー実行」へ！開発マネージャが取り組んだ、レガシー自動テストのモダン化戦略](https://speakerdeck.com/goataka/modernize-legacy-automation)
+- [「リリース時」テストから「デイリー実行」へ！開発マネージャが取り組んだ、レガシー自動テストのモダン化戦略](https://speakerdeck.com/goataka/modernize-legacy-automation) [SpeakerDeck]
   - 2025.12.06 - [ソフトウェアテスト自動化カンファレンス2025](https://testautomationresearch.connpass.com/event/361747/)
 
 ## Jobs
