@@ -100,7 +100,9 @@
 
 #### [Scrum](https://scrumlab.scruminc.com/login)
 
-<img src="images/registered-scrum-master.svg" alt="Registered Scrum Master" height="100"/> <img src="images/registered-product-owner.svg" alt="Registered Product Owner" height="100"/> <img src="images/registered-scrum-scale-practitioner.svg" alt="Registered Scrum@Scale Practitioner" height="100"/>
+<img src="images/registered-scrum-master.svg" alt="Registered Scrum Master" height="100"/>
+<img src="images/registered-product-owner.svg" alt="Registered Product Owner" height="100"/>
+<img src="images/registered-scrum-scale-practitioner.svg" alt="Registered Scrum@Scale Practitioner" height="100"/>
 
 - [Registered Scrum Master®](https://scruminc.jp/training/master/) 2022/09
 - [Registered Product Owner®](https://scruminc.jp/training/owner/) 2023/03
@@ -108,14 +110,16 @@
 
 #### [AWS](https://skillbuilder.aws/login)
 
-<img src="images/aws-solutions-architect-professional.svg" alt="AWS Solutions Architect Professional" height="100"/> <img src="images/aws-devops-engineer-professional.svg" alt="AWS DevOps Engineer Professional" height="100"/>
+<img src="images/aws-solutions-architect-professional.svg" alt="AWS Solutions Architect Professional" height="100"/>
+<img src="images/aws-devops-engineer-professional.svg" alt="AWS DevOps Engineer Professional" height="100"/>
 
 - [Solutions Architect - Professional](https://aws.amazon.com/jp/certification/certified-solutions-architect-professional/) 2024/04
 - [DevOps Engineer - Professional](https://aws.amazon.com/jp/certification/certified-devops-engineer-professional/) 2025/05
 
 #### [JSTQB](https://qualification-jstqb.com/examinee/)
 
-<img src="images/jstqb-foundation.svg" alt="JSTQB Foundation Level" height="100"/> <img src="images/jstqb-test-automation-engineer.svg" alt="JSTQB Test Automation Engineer" height="100"/>
+<img src="images/jstqb-foundation.svg" alt="JSTQB Foundation Level" height="100"/>
+<img src="images/jstqb-test-automation-engineer.svg" alt="JSTQB Test Automation Engineer" height="100"/>
 
 - [Foundation Level](https://jstqb.jp/syllabus.html#syllabus_foundation) 2024/08
 - [Test Automation Engineer](https://jstqb.jp/syllabus.html#syllabus_advanced_specialist) 2024/10
